@@ -15,10 +15,11 @@ const getBasePath = () => {
 };
 
 const data: ISiteMetadataResult = {
-  siteTitle: 'Running Page',
-  siteUrl: 'https://yihong.run',
-  logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtc69JxHNcmN1ETpMUX4dozAgAN6iPjWalQ&usqp=CAU',
+  siteTitle: '8848 Outdoors',
+  siteUrl: 'https://jeffg121.github.io/outdoor',
+  logo: 'https://picx.zhimg.com/v2-fbedec8ead9d47a7cb596d240e9eb8c5_xll.jpg?source=32738c0c&needBackground=1',
   description: 'Personal site and blog',
+  keywords: 'workouts, running, cycling, riding, roadtrip, hiking, swimming',
   navLinks: [
     {
       name: 'Summary',
@@ -26,7 +27,7 @@ const data: ISiteMetadataResult = {
     },
     {
       name: 'Blog',
-      url: 'https://github.com/yihong0618/gitblog',
+      url: 'https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg4NzE1NTI4MA==&action=getalbum&album_id=1540766711656824835',
     },
     {
       name: 'About',
