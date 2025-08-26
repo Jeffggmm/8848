@@ -3,7 +3,7 @@ const MAPBOX_TOKEN =
   // For security reasons, please avoid using the default public token provided by Mapbox as much as possible.
   // Instead, manually add a new token and apply URL restrictions.
   // (please refer to https://github.com/yihong0618/running_page/issues/643#issuecomment-2042668580)
-  'pk.eyJ1IjoieWlob25nMDYxOCIsImEiOiJja2J3M28xbG4wYzl0MzJxZm0ya2Fua2p2In0.PNKfkeQwYuyGOTT_x9BJ4Q';
+   'pk.eyJ1IjoiYmVuLTI5IiwiYSI6ImNrZ3Q4Ym9mMDBqMGYyeXFvODV2dWl6YzQifQ.gSKoWF-fMjhzU67TuDezJQ';
 const MUNICIPALITY_CITIES_ARR = [
   '北京市',
   '上海市',
@@ -31,9 +31,9 @@ const USE_GOOGLE_ANALYTICS = false;
 const GOOGLE_ANALYTICS_TRACKING_ID = '';
 
 // styling: set to `true` if you want dash-line route
-const USE_DASH_LINE = true;
+const USE_DASH_LINE = false;
 // styling: route line opacity: [0, 1]
-const LINE_OPACITY = 0.4;
+const LINE_OPACITY = 0.9;
 // styling: map height - responsive design
 // Use smaller height on mobile devices for better user experience
 const MAP_HEIGHT = window.innerWidth <= 768 ? 250 : 600;
@@ -46,23 +46,23 @@ const PRIVACY_MODE = false;
 //set to `false` if you want to make light off as default, only effect when `PRIVACY_MODE` = false
 const LIGHTS_ON = false;
 //set to `true` if you want to show the 'Elevation Gain' column
-const SHOW_ELEVATION_GAIN = false;
+const SHOW_ELEVATION_GAIN = true;
 // richer title for the activity types (like garmin style)
-const RICH_TITLE = false;
+const RICH_TITLE = true;
 
 // IF you are outside China please make sure IS_CHINESE = false
 const IS_CHINESE = true;
 const USE_ANIMATION_FOR_GRID = false;
 const CHINESE_INFO_MESSAGE = (yearLength: number, year: string): string => {
   const yearStr = year === 'Total' ? '所有' : ` ${year} `;
-  return `记录自己跑步 ${yearLength} 年了，下面列表展示的是${yearStr}的数据`;
+  return `记录自己运动 ${yearLength} 年了，下面列表展示的是${yearStr}的数据`;
 };
 const ENGLISH_INFO_MESSAGE = (yearLength: number, year: string): string =>
   `Running Journey with ${yearLength} Years, the table shows year ${year} data`;
 
 // English is not supported for location info messages yet
 const CHINESE_LOCATION_INFO_MESSAGE_FIRST =
-  '跑过了一些地方，希望随着时间推移，点亮的地方越来越多';
+  '以运动打卡了一些地方，希望随着时间推移，点亮的地方越来越多';
 const CHINESE_LOCATION_INFO_MESSAGE_SECOND = '不要停下来，不要停下奔跑的脚步';
 
 const INFO_MESSAGE = IS_CHINESE ? CHINESE_INFO_MESSAGE : ENGLISH_INFO_MESSAGE;
@@ -169,7 +169,7 @@ const dark_vanilla = 'rgb(228,212,220)';
 export const NEED_FIX_MAP = false;
 export const MAIN_COLOR = nike;
 export const PROVINCE_FILL_COLOR = '#47b8e0';
-export const COUNTRY_FILL_COLOR = dark_vanilla;
+export const COUNTRY_FILL_COLOR = '#0af3d4';
 
 // Static color constants
 export const RUN_COLOR_LIGHT = '#47b8e0';
