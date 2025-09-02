@@ -1,0 +1,23 @@
+<gpx xmlns:ns3="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.garmin.com/xmlschemas/GpxExtensions/v3" creator="Garmin Connect" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/11.xsd">
+  <extensions>
+<distance>42239.76</distance>
+<average_hr>124.0</average_hr>
+<average_speed>1.3760000467300415</average_speed>
+<start_time>2024-11-03T00:32:31+00:00</start_time>
+<end_time>2024-11-03T09:03:58.725000+00:00</end_time>
+<moving_time>27019.603</moving_time>
+<elapsed_time>30687.725</elapsed_time>
+</extensions>
+<metadata>
+    <link href="connect.garmin.com">
+      <text>Garmin Connect</text>
+    </link>
+    <time>2024-11-03T00:32:31.000Z</time>
+  </metadata>
+  <trk>
+    <name>M083湘西十八洞越野2024</name>
+    <desc>第83马在精准扶贫首倡地湘西十八洞村完赛，爬升挺大，天气挺热，赛道大都是田埂小路，穿越竹编黄泥做墙的古村，见到怒放的茶花，挺拔的水杉和茂盛的蕨类，还认识了新物种吊瓜子，被我称为极度友好赛道，能早于关门两个半小时冲线也算不辱使命。道上几条打气标语印象深刻：向往大山的跑者脚下坎坷阻挡不了，在赛道上，每一个越野者都闪闪发光，我可没闪光只是一路冒汗。终点大标语：幸福是奋斗出来的！我这一路奋斗是否幸福不敢说，倒是左脚的三个水泡算是舍国马来首倡地学习感悟的纪念章吧。</desc>
+    <type>trail_running</type>
+    <trkseg/>
+  </trk>
+</gpx>

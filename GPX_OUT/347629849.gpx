@@ -1,0 +1,23 @@
+<gpx xmlns:ns3="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.garmin.com/xmlschemas/GpxExtensions/v3" creator="Garmin Connect" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/11.xsd">
+  <extensions>
+<distance>43003.53</distance>
+<average_hr>129.0</average_hr>
+<average_speed>1.741000056266785</average_speed>
+<start_time>2024-04-21T00:56:55+00:00</start_time>
+<end_time>2024-04-21T07:48:36.430000+00:00</end_time>
+<moving_time>22212.01</moving_time>
+<elapsed_time>24701.43</elapsed_time>
+</extensions>
+<metadata>
+    <link href="connect.garmin.com">
+      <text>Garmin Connect</text>
+    </link>
+    <time>2024-04-21T00:56:55.000Z</time>
+  </metadata>
+  <trk>
+    <name>M075河南嵖岈山马2024</name>
+    <desc>第75马嵖岈山马精算完赛。嵖岈山是吴承恩写西游的灵感来源，有中原盆景美誉，山石嶙峋形态各异确实像石蛋、石猴，这也是连续剧《西游记》取景地之一，前半程是逛景区。后半程是被巨物风车震慑，受碎石折磨，像极了理想被按地上摩擦的堂吉诃德，昔日看戏者，亦是戏中人。天气热跑不动一路算计着关门时间，还好没失算顺利完赛！</desc>
+    <type>trail_running</type>
+    <trkseg/>
+  </trk>
+</gpx>

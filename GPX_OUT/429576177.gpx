@@ -1,0 +1,23 @@
+<gpx xmlns:ns3="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.garmin.com/xmlschemas/GpxExtensions/v3" creator="Garmin Connect" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/11.xsd">
+  <extensions>
+<distance>51507.19</distance>
+<average_hr>119.0</average_hr>
+<average_speed>1.565999984741211</average_speed>
+<start_time>2024-11-08T22:00:28+00:00</start_time>
+<end_time>2024-11-09T07:08:49.211000+00:00</end_time>
+<moving_time>30004.185</moving_time>
+<elapsed_time>32901.211</elapsed_time>
+</extensions>
+<metadata>
+    <link href="connect.garmin.com">
+      <text>Garmin Connect</text>
+    </link>
+    <time>2024-11-08T22:00:28.000Z</time>
+  </metadata>
+  <trk>
+    <name>M084广西阳朔越野赛2024</name>
+    <desc>阳朔山水甲桂林，世界遗产地中国南方喀斯特地貌，终于以一场越野赛进行了深度体验。赛道沿着漓江两岸，两次乘船渡江，选手同舟共济翻山越岭渡河对我是第一次。遵循徒步+越野的赛事方针，看看风景拍拍照，玩赛比较轻松。赛道难度适中景色一流，赛后的啤酒鱼味道很赞，可列入必跑清单。</desc>
+    <type>trail_running</type>
+    <trkseg/>
+  </trk>
+</gpx>
